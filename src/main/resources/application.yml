@@ -1,0 +1,6 @@
+logging:
+  level:
+    scratch: debug
+
+server:
+  port: 8080
